@@ -1,0 +1,17 @@
+---
+title: "Portfolio"
+author: "JT Keller"
+date: "04/09/2022"
+output: 
+  tufte::tufte_html
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Please click title page below for link to portfolio of work
+
+
+[![](thumbnails/title thumb.png)](https://jtkeller29.github.io/visual_portfolio/fullsize/Keller_portfolio_april2022.pdf)
+
